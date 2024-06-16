@@ -19,8 +19,7 @@ In the project directory, you can run:
 
 ### `clone the repository`
 
-   ```sh
-   git clone [https://github.com/yourusername/library-management](https://github.com/harrycodingnow/Libaray-Management-System).git
+   git clone https://github.com/harrycodingnow/Libaray-Management-System.git
    cd library-management
 
 ### `npm install`
